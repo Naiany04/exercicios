@@ -1,0 +1,12 @@
+1- Clonar o repositorio local de programação para a página local.
+
+2- Clonar um arquivo no repositório local com o nome casa.txt
+
+3- No arquivo casa.txt insira a seguinte informação:
+"Criei este arquivo em casa e farei o commit de suas alterações e em seguida o push para o repositório remoto."
+
+4- Utilizando o github desktop faça o commit do arquivo das alterações.
+
+5- Agora faça o push orign;
+
+6- Acesse o repositório remoto e visualize o arquivo casa.txt
